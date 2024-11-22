@@ -1,0 +1,802 @@
+[
+    {
+        "sensor_id": "sensor_1",
+        "device_type": "motion_sensor",
+        "temperature": 25.4,
+        "humidity": null,
+        "battery_level": 45,
+        "timestamp": "2024-11-22T10:05:00"
+    },
+    {
+        "sensor_id": "sensor_2",
+        "device_type": "motion_sensor",
+        "temperature": 15.17,
+        "humidity": 61.26,
+        "battery_level": 37,
+        "timestamp": "2024-11-22T10:10:00"
+    },
+    {
+        "sensor_id": "sensor_3",
+        "device_type": "humidity_sensor",
+        "temperature": 15.74,
+        "humidity": 33.69,
+        "battery_level": 78,
+        "timestamp": "2024-11-22T10:15:00"
+    },
+    {
+        "sensor_id": "sensor_4",
+        "device_type": "humidity_sensor",
+        "temperature": null,
+        "humidity": 30.33,
+        "battery_level": 89,
+        "timestamp": "2024-11-22T10:20:00"
+    },
+    {
+        "sensor_id": "sensor_5",
+        "device_type": "motion_sensor",
+        "temperature": null,
+        "humidity": 50.12,
+        "battery_level": 25,
+        "timestamp": "2024-11-22T10:25:00"
+    },
+    {
+        "sensor_id": "sensor_6",
+        "device_type": "temperature_sensor",
+        "temperature": 21.04,
+        "humidity": 56.53,
+        "battery_level": 77,
+        "timestamp": "2024-11-22T10:30:00"
+    },
+    {
+        "sensor_id": "sensor_7",
+        "device_type": "motion_sensor",
+        "temperature": 20.12,
+        "humidity": 34.28,
+        "battery_level": 68,
+        "timestamp": "2024-11-22T10:35:00"
+    },
+    {
+        "sensor_id": "sensor_8",
+        "device_type": "temperature_sensor",
+        "temperature": 32.79,
+        "humidity": 64.1,
+        "battery_level": 79,
+        "timestamp": "2024-11-22T10:40:00"
+    },
+    {
+        "sensor_id": "sensor_9",
+        "device_type": "humidity_sensor",
+        "temperature": 21.08,
+        "humidity": null,
+        "battery_level": 75,
+        "timestamp": "2024-11-22T10:45:00"
+    },
+    {
+        "sensor_id": "sensor_10",
+        "device_type": "temperature_sensor",
+        "temperature": 18.84,
+        "humidity": 55.61,
+        "battery_level": 98,
+        "timestamp": "2024-11-22T10:50:00"
+    },
+    {
+        "sensor_id": "sensor_11",
+        "device_type": "humidity_sensor",
+        "temperature": 28.98,
+        "humidity": 65.49,
+        "battery_level": 48,
+        "timestamp": "2024-11-22T10:55:00"
+    },
+    {
+        "sensor_id": "sensor_12",
+        "device_type": "motion_sensor",
+        "temperature": 16.73,
+        "humidity": 47.48,
+        "battery_level": 66,
+        "timestamp": "2024-11-22T11:00:00"
+    },
+    {
+        "sensor_id": "sensor_13",
+        "device_type": "humidity_sensor",
+        "temperature": null,
+        "humidity": 49.78,
+        "battery_level": 88,
+        "timestamp": "2024-11-22T11:05:00"
+    },
+    {
+        "sensor_id": "sensor_14",
+        "device_type": "temperature_sensor",
+        "temperature": 22.07,
+        "humidity": null,
+        "battery_level": 65,
+        "timestamp": "2024-11-22T11:10:00"
+    },
+    {
+        "sensor_id": "sensor_15",
+        "device_type": "motion_sensor",
+        "temperature": 15.18,
+        "humidity": null,
+        "battery_level": 33,
+        "timestamp": "2024-11-22T11:15:00"
+    },
+    {
+        "sensor_id": "sensor_16",
+        "device_type": "motion_sensor",
+        "temperature": null,
+        "humidity": 50.87,
+        "battery_level": 41,
+        "timestamp": "2024-11-22T11:20:00"
+    },
+    {
+        "sensor_id": "sensor_17",
+        "device_type": "temperature_sensor",
+        "temperature": 29.6,
+        "humidity": 52.42,
+        "battery_level": 16,
+        "timestamp": "2024-11-22T11:25:00"
+    },
+    {
+        "sensor_id": "sensor_18",
+        "device_type": "humidity_sensor",
+        "temperature": 28.52,
+        "humidity": 59.24,
+        "battery_level": 73,
+        "timestamp": "2024-11-22T11:30:00"
+    },
+    {
+        "sensor_id": "sensor_19",
+        "device_type": "motion_sensor",
+        "temperature": 15.83,
+        "humidity": 65.41,
+        "battery_level": 92,
+        "timestamp": "2024-11-22T11:35:00"
+    },
+    {
+        "sensor_id": "sensor_20",
+        "device_type": "motion_sensor",
+        "temperature": 24.22,
+        "humidity": 60.17,
+        "battery_level": 84,
+        "timestamp": "2024-11-22T11:40:00"
+    },
+    {
+        "sensor_id": "sensor_21",
+        "device_type": "humidity_sensor",
+        "temperature": null,
+        "humidity": 32.68,
+        "battery_level": 53,
+        "timestamp": "2024-11-22T11:45:00"
+    },
+    {
+        "sensor_id": "sensor_22",
+        "device_type": "motion_sensor",
+        "temperature": 15.46,
+        "humidity": 54.34,
+        "battery_level": 87,
+        "timestamp": "2024-11-22T11:50:00"
+    },
+    {
+        "sensor_id": "sensor_23",
+        "device_type": "humidity_sensor",
+        "temperature": 32.07,
+        "humidity": 34.4,
+        "battery_level": 97,
+        "timestamp": "2024-11-22T11:55:00"
+    },
+    {
+        "sensor_id": "sensor_24",
+        "device_type": "motion_sensor",
+        "temperature": 20.77,
+        "humidity": 39.21,
+        "battery_level": 37,
+        "timestamp": "2024-11-22T12:00:00"
+    },
+    {
+        "sensor_id": "sensor_25",
+        "device_type": "motion_sensor",
+        "temperature": 34.87,
+        "humidity": 63.95,
+        "battery_level": 20,
+        "timestamp": "2024-11-22T12:05:00"
+    },
+    {
+        "sensor_id": "sensor_26",
+        "device_type": "humidity_sensor",
+        "temperature": 28.06,
+        "humidity": 50.14,
+        "battery_level": 62,
+        "timestamp": "2024-11-22T12:10:00"
+    },
+    {
+        "sensor_id": "sensor_27",
+        "device_type": "humidity_sensor",
+        "temperature": null,
+        "humidity": null,
+        "battery_level": 73,
+        "timestamp": "2024-11-22T12:15:00"
+    },
+    {
+        "sensor_id": "sensor_28",
+        "device_type": "humidity_sensor",
+        "temperature": null,
+        "humidity": 45.92,
+        "battery_level": 96,
+        "timestamp": "2024-11-22T12:20:00"
+    },
+    {
+        "sensor_id": "sensor_29",
+        "device_type": "humidity_sensor",
+        "temperature": 34.8,
+        "humidity": 31.81,
+        "battery_level": 80,
+        "timestamp": "2024-11-22T12:25:00"
+    },
+    {
+        "sensor_id": "sensor_30",
+        "device_type": "temperature_sensor",
+        "temperature": null,
+        "humidity": 55.71,
+        "battery_level": 14,
+        "timestamp": "2024-11-22T12:30:00"
+    },
+    {
+        "sensor_id": "sensor_31",
+        "device_type": "humidity_sensor",
+        "temperature": null,
+        "humidity": null,
+        "battery_level": 35,
+        "timestamp": "2024-11-22T12:35:00"
+    },
+    {
+        "sensor_id": "sensor_32",
+        "device_type": "temperature_sensor",
+        "temperature": 18.49,
+        "humidity": 58.04,
+        "battery_level": 10,
+        "timestamp": "2024-11-22T12:40:00"
+    },
+    {
+        "sensor_id": "sensor_33",
+        "device_type": "humidity_sensor",
+        "temperature": 21.52,
+        "humidity": null,
+        "battery_level": 26,
+        "timestamp": "2024-11-22T12:45:00"
+    },
+    {
+        "sensor_id": "sensor_34",
+        "device_type": "temperature_sensor",
+        "temperature": 20.59,
+        "humidity": null,
+        "battery_level": 95,
+        "timestamp": "2024-11-22T12:50:00"
+    },
+    {
+        "sensor_id": "sensor_35",
+        "device_type": "temperature_sensor",
+        "temperature": 28.96,
+        "humidity": 65.36,
+        "battery_level": 9,
+        "timestamp": "2024-11-22T12:55:00"
+    },
+    {
+        "sensor_id": "sensor_36",
+        "device_type": "humidity_sensor",
+        "temperature": 31.27,
+        "humidity": 31.66,
+        "battery_level": 43,
+        "timestamp": "2024-11-22T13:00:00"
+    },
+    {
+        "sensor_id": "sensor_37",
+        "device_type": "humidity_sensor",
+        "temperature": 17.74,
+        "humidity": 42.64,
+        "battery_level": 4,
+        "timestamp": "2024-11-22T13:05:00"
+    },
+    {
+        "sensor_id": "sensor_38",
+        "device_type": "motion_sensor",
+        "temperature": 18.91,
+        "humidity": 44.5,
+        "battery_level": 81,
+        "timestamp": "2024-11-22T13:10:00"
+    },
+    {
+        "sensor_id": "sensor_39",
+        "device_type": "temperature_sensor",
+        "temperature": 24.11,
+        "humidity": null,
+        "battery_level": 61,
+        "timestamp": "2024-11-22T13:15:00"
+    },
+    {
+        "sensor_id": "sensor_40",
+        "device_type": "motion_sensor",
+        "temperature": null,
+        "humidity": null,
+        "battery_level": 90,
+        "timestamp": "2024-11-22T13:20:00"
+    },
+    {
+        "sensor_id": "sensor_41",
+        "device_type": "motion_sensor",
+        "temperature": null,
+        "humidity": 55.61,
+        "battery_level": 87,
+        "timestamp": "2024-11-22T13:25:00"
+    },
+    {
+        "sensor_id": "sensor_42",
+        "device_type": "temperature_sensor",
+        "temperature": null,
+        "humidity": 58.02,
+        "battery_level": 85,
+        "timestamp": "2024-11-22T13:30:00"
+    },
+    {
+        "sensor_id": "sensor_43",
+        "device_type": "humidity_sensor",
+        "temperature": 18.05,
+        "humidity": 40.75,
+        "battery_level": 28,
+        "timestamp": "2024-11-22T13:35:00"
+    },
+    {
+        "sensor_id": "sensor_44",
+        "device_type": "temperature_sensor",
+        "temperature": 33.69,
+        "humidity": null,
+        "battery_level": 58,
+        "timestamp": "2024-11-22T13:40:00"
+    },
+    {
+        "sensor_id": "sensor_45",
+        "device_type": "temperature_sensor",
+        "temperature": null,
+        "humidity": null,
+        "battery_level": 59,
+        "timestamp": "2024-11-22T13:45:00"
+    },
+    {
+        "sensor_id": "sensor_46",
+        "device_type": "temperature_sensor",
+        "temperature": 24.42,
+        "humidity": 32.23,
+        "battery_level": 83,
+        "timestamp": "2024-11-22T13:50:00"
+    },
+    {
+        "sensor_id": "sensor_47",
+        "device_type": "humidity_sensor",
+        "temperature": null,
+        "humidity": 46.62,
+        "battery_level": 34,
+        "timestamp": "2024-11-22T13:55:00"
+    },
+    {
+        "sensor_id": "sensor_48",
+        "device_type": "temperature_sensor",
+        "temperature": 23.96,
+        "humidity": 30.16,
+        "battery_level": 28,
+        "timestamp": "2024-11-22T14:00:00"
+    },
+    {
+        "sensor_id": "sensor_49",
+        "device_type": "humidity_sensor",
+        "temperature": 25.92,
+        "humidity": 30.07,
+        "battery_level": 69,
+        "timestamp": "2024-11-22T14:05:00"
+    },
+    {
+        "sensor_id": "sensor_50",
+        "device_type": "motion_sensor",
+        "temperature": 24.08,
+        "humidity": null,
+        "battery_level": 79,
+        "timestamp": "2024-11-22T14:10:00"
+    },
+    {
+        "sensor_id": "sensor_51",
+        "device_type": "motion_sensor",
+        "temperature": 16.88,
+        "humidity": null,
+        "battery_level": 66,
+        "timestamp": "2024-11-22T14:15:00"
+    },
+    {
+        "sensor_id": "sensor_52",
+        "device_type": "temperature_sensor",
+        "temperature": null,
+        "humidity": null,
+        "battery_level": 95,
+        "timestamp": "2024-11-22T14:20:00"
+    },
+    {
+        "sensor_id": "sensor_53",
+        "device_type": "temperature_sensor",
+        "temperature": 30.39,
+        "humidity": null,
+        "battery_level": 14,
+        "timestamp": "2024-11-22T14:25:00"
+    },
+    {
+        "sensor_id": "sensor_54",
+        "device_type": "humidity_sensor",
+        "temperature": null,
+        "humidity": null,
+        "battery_level": 81,
+        "timestamp": "2024-11-22T14:30:00"
+    },
+    {
+        "sensor_id": "sensor_55",
+        "device_type": "motion_sensor",
+        "temperature": 17.67,
+        "humidity": 65.47,
+        "battery_level": 86,
+        "timestamp": "2024-11-22T14:35:00"
+    },
+    {
+        "sensor_id": "sensor_56",
+        "device_type": "motion_sensor",
+        "temperature": null,
+        "humidity": 56.42,
+        "battery_level": 80,
+        "timestamp": "2024-11-22T14:40:00"
+    },
+    {
+        "sensor_id": "sensor_57",
+        "device_type": "motion_sensor",
+        "temperature": 30.54,
+        "humidity": 64.95,
+        "battery_level": 89,
+        "timestamp": "2024-11-22T14:45:00"
+    },
+    {
+        "sensor_id": "sensor_58",
+        "device_type": "temperature_sensor",
+        "temperature": null,
+        "humidity": null,
+        "battery_level": 48,
+        "timestamp": "2024-11-22T14:50:00"
+    },
+    {
+        "sensor_id": "sensor_59",
+        "device_type": "temperature_sensor",
+        "temperature": 32.96,
+        "humidity": 31.15,
+        "battery_level": 39,
+        "timestamp": "2024-11-22T14:55:00"
+    },
+    {
+        "sensor_id": "sensor_60",
+        "device_type": "motion_sensor",
+        "temperature": 18.63,
+        "humidity": 44.22,
+        "battery_level": 88,
+        "timestamp": "2024-11-22T15:00:00"
+    },
+    {
+        "sensor_id": "sensor_61",
+        "device_type": "temperature_sensor",
+        "temperature": 20.51,
+        "humidity": 31.29,
+        "battery_level": 46,
+        "timestamp": "2024-11-22T15:05:00"
+    },
+    {
+        "sensor_id": "sensor_62",
+        "device_type": "humidity_sensor",
+        "temperature": null,
+        "humidity": 59.99,
+        "battery_level": 54,
+        "timestamp": "2024-11-22T15:10:00"
+    },
+    {
+        "sensor_id": "sensor_63",
+        "device_type": "motion_sensor",
+        "temperature": 32.15,
+        "humidity": 51.09,
+        "battery_level": 14,
+        "timestamp": "2024-11-22T15:15:00"
+    },
+    {
+        "sensor_id": "sensor_64",
+        "device_type": "motion_sensor",
+        "temperature": 16.62,
+        "humidity": 55.39,
+        "battery_level": 30,
+        "timestamp": "2024-11-22T15:20:00"
+    },
+    {
+        "sensor_id": "sensor_65",
+        "device_type": "humidity_sensor",
+        "temperature": 22.97,
+        "humidity": null,
+        "battery_level": 87,
+        "timestamp": "2024-11-22T15:25:00"
+    },
+    {
+        "sensor_id": "sensor_66",
+        "device_type": "motion_sensor",
+        "temperature": 20.56,
+        "humidity": 42.57,
+        "battery_level": 83,
+        "timestamp": "2024-11-22T15:30:00"
+    },
+    {
+        "sensor_id": "sensor_67",
+        "device_type": "humidity_sensor",
+        "temperature": 30.41,
+        "humidity": 55.31,
+        "battery_level": 62,
+        "timestamp": "2024-11-22T15:35:00"
+    },
+    {
+        "sensor_id": "sensor_68",
+        "device_type": "motion_sensor",
+        "temperature": 18.69,
+        "humidity": 69.37,
+        "battery_level": 81,
+        "timestamp": "2024-11-22T15:40:00"
+    },
+    {
+        "sensor_id": "sensor_69",
+        "device_type": "motion_sensor",
+        "temperature": null,
+        "humidity": 63.81,
+        "battery_level": 56,
+        "timestamp": "2024-11-22T15:45:00"
+    },
+    {
+        "sensor_id": "sensor_70",
+        "device_type": "motion_sensor",
+        "temperature": 20.8,
+        "humidity": 65.87,
+        "battery_level": 89,
+        "timestamp": "2024-11-22T15:50:00"
+    },
+    {
+        "sensor_id": "sensor_71",
+        "device_type": "humidity_sensor",
+        "temperature": 15.95,
+        "humidity": 54.25,
+        "battery_level": 97,
+        "timestamp": "2024-11-22T15:55:00"
+    },
+    {
+        "sensor_id": "sensor_72",
+        "device_type": "humidity_sensor",
+        "temperature": 27.06,
+        "humidity": 39.58,
+        "battery_level": 57,
+        "timestamp": "2024-11-22T16:00:00"
+    },
+    {
+        "sensor_id": "sensor_73",
+        "device_type": "humidity_sensor",
+        "temperature": 23.08,
+        "humidity": 35.79,
+        "battery_level": 26,
+        "timestamp": "2024-11-22T16:05:00"
+    },
+    {
+        "sensor_id": "sensor_74",
+        "device_type": "motion_sensor",
+        "temperature": null,
+        "humidity": 42.05,
+        "battery_level": 88,
+        "timestamp": "2024-11-22T16:10:00"
+    },
+    {
+        "sensor_id": "sensor_75",
+        "device_type": "humidity_sensor",
+        "temperature": 19.1,
+        "humidity": null,
+        "battery_level": 31,
+        "timestamp": "2024-11-22T16:15:00"
+    },
+    {
+        "sensor_id": "sensor_76",
+        "device_type": "temperature_sensor",
+        "temperature": 34.06,
+        "humidity": 33.75,
+        "battery_level": 2,
+        "timestamp": "2024-11-22T16:20:00"
+    },
+    {
+        "sensor_id": "sensor_77",
+        "device_type": "humidity_sensor",
+        "temperature": 25.56,
+        "humidity": null,
+        "battery_level": 50,
+        "timestamp": "2024-11-22T16:25:00"
+    },
+    {
+        "sensor_id": "sensor_78",
+        "device_type": "temperature_sensor",
+        "temperature": 28.78,
+        "humidity": 69.87,
+        "battery_level": 98,
+        "timestamp": "2024-11-22T16:30:00"
+    },
+    {
+        "sensor_id": "sensor_79",
+        "device_type": "temperature_sensor",
+        "temperature": 31.53,
+        "humidity": 65.44,
+        "battery_level": 8,
+        "timestamp": "2024-11-22T16:35:00"
+    },
+    {
+        "sensor_id": "sensor_80",
+        "device_type": "humidity_sensor",
+        "temperature": 29.95,
+        "humidity": null,
+        "battery_level": 37,
+        "timestamp": "2024-11-22T16:40:00"
+    },
+    {
+        "sensor_id": "sensor_81",
+        "device_type": "humidity_sensor",
+        "temperature": null,
+        "humidity": null,
+        "battery_level": 60,
+        "timestamp": "2024-11-22T16:45:00"
+    },
+    {
+        "sensor_id": "sensor_82",
+        "device_type": "humidity_sensor",
+        "temperature": 26.12,
+        "humidity": 66.37,
+        "battery_level": 18,
+        "timestamp": "2024-11-22T16:50:00"
+    },
+    {
+        "sensor_id": "sensor_83",
+        "device_type": "temperature_sensor",
+        "temperature": 25.6,
+        "humidity": 46.25,
+        "battery_level": 76,
+        "timestamp": "2024-11-22T16:55:00"
+    },
+    {
+        "sensor_id": "sensor_84",
+        "device_type": "motion_sensor",
+        "temperature": null,
+        "humidity": 47.66,
+        "battery_level": 85,
+        "timestamp": "2024-11-22T17:00:00"
+    },
+    {
+        "sensor_id": "sensor_85",
+        "device_type": "humidity_sensor",
+        "temperature": 29.13,
+        "humidity": 38.44,
+        "battery_level": 88,
+        "timestamp": "2024-11-22T17:05:00"
+    },
+    {
+        "sensor_id": "sensor_86",
+        "device_type": "temperature_sensor",
+        "temperature": 15.17,
+        "humidity": null,
+        "battery_level": 41,
+        "timestamp": "2024-11-22T17:10:00"
+    },
+    {
+        "sensor_id": "sensor_87",
+        "device_type": "motion_sensor",
+        "temperature": 19.33,
+        "humidity": 69.25,
+        "battery_level": 19,
+        "timestamp": "2024-11-22T17:15:00"
+    },
+    {
+        "sensor_id": "sensor_88",
+        "device_type": "motion_sensor",
+        "temperature": 16.7,
+        "humidity": 31.79,
+        "battery_level": 93,
+        "timestamp": "2024-11-22T17:20:00"
+    },
+    {
+        "sensor_id": "sensor_89",
+        "device_type": "humidity_sensor",
+        "temperature": 21.98,
+        "humidity": null,
+        "battery_level": 7,
+        "timestamp": "2024-11-22T17:25:00"
+    },
+    {
+        "sensor_id": "sensor_90",
+        "device_type": "motion_sensor",
+        "temperature": 24.48,
+        "humidity": 33.75,
+        "battery_level": 52,
+        "timestamp": "2024-11-22T17:30:00"
+    },
+    {
+        "sensor_id": "sensor_91",
+        "device_type": "humidity_sensor",
+        "temperature": 22.42,
+        "humidity": null,
+        "battery_level": 44,
+        "timestamp": "2024-11-22T17:35:00"
+    },
+    {
+        "sensor_id": "sensor_92",
+        "device_type": "humidity_sensor",
+        "temperature": 34.39,
+        "humidity": 67.56,
+        "battery_level": 6,
+        "timestamp": "2024-11-22T17:40:00"
+    },
+    {
+        "sensor_id": "sensor_93",
+        "device_type": "motion_sensor",
+        "temperature": 32.08,
+        "humidity": 68.64,
+        "battery_level": 38,
+        "timestamp": "2024-11-22T17:45:00"
+    },
+    {
+        "sensor_id": "sensor_94",
+        "device_type": "temperature_sensor",
+        "temperature": 32.31,
+        "humidity": 46.44,
+        "battery_level": 28,
+        "timestamp": "2024-11-22T17:50:00"
+    },
+    {
+        "sensor_id": "sensor_95",
+        "device_type": "temperature_sensor",
+        "temperature": null,
+        "humidity": 44.02,
+        "battery_level": 29,
+        "timestamp": "2024-11-22T17:55:00"
+    },
+    {
+        "sensor_id": "sensor_96",
+        "device_type": "temperature_sensor",
+        "temperature": 20.91,
+        "humidity": 49.49,
+        "battery_level": 74,
+        "timestamp": "2024-11-22T18:00:00"
+    },
+    {
+        "sensor_id": "sensor_97",
+        "device_type": "temperature_sensor",
+        "temperature": 16.86,
+        "humidity": 55.33,
+        "battery_level": 18,
+        "timestamp": "2024-11-22T18:05:00"
+    },
+    {
+        "sensor_id": "sensor_98",
+        "device_type": "temperature_sensor",
+        "temperature": 26.64,
+        "humidity": 38.29,
+        "battery_level": 29,
+        "timestamp": "2024-11-22T18:10:00"
+    },
+    {
+        "sensor_id": "sensor_99",
+        "device_type": "humidity_sensor",
+        "temperature": 27.85,
+        "humidity": 46.83,
+        "battery_level": 91,
+        "timestamp": "2024-11-22T18:15:00"
+    },
+    {
+        "sensor_id": "sensor_100",
+        "device_type": "temperature_sensor",
+        "temperature": 30.13,
+        "humidity": null,
+        "battery_level": 83,
+        "timestamp": "2024-11-22T18:20:00"
+    }
+]
