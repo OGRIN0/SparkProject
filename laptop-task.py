@@ -1,31 +1,26 @@
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import col, count, desc
 
+spark= SparkSession.builder.appName("task1").getOrCreate()
 
-spark = SparkSession.builder.appName("ReadParquetExample").master("local[*]") \
-    .config("spark.driver.extraJavaOptions", "-Djava.security.manager=allow") \
-    .getOrCreate()
+fp= "data\laptop_price.csv"
 
-file_path = "data/laptop_price.csv"
-df = spark.read.format("csv")\
+df= spark.read.format("csv")\
     .option("header","true")\
     .option("inferschema","true")\
-    .load(file_path)
+    .load(fp)
 
-threshold = 1000
+thresh= 1250
 
-high_value_laptops = df.filter(col("Price_euros")>threshold)\
+hvl= df.filter(col("Price_euros")>thresh)\
     .select("Company", "Product", "Price_euros")
 
-high_value_laptops.show(10)
+hvl.show(15)
 
-top_selling_laptops = (
-    df.groupby("Product", "Company")
-    .agg(count("*").alias("Total_Sales"))
-    .orderBy(desc("Total_Sales"))
-)
+tsl=(
+    df.groupBy("Product", "Company")
+    .agg(count("*").alias("Ts"))
+    .orderBy(desc("Ts"))
+) 
 
-top_selling_laptops.show(10)
-
-
-
+tsl.show(15)
