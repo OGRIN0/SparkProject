@@ -16,6 +16,7 @@ hvl= df.filter(col("Price_euros")>thresh)\
     .select("Company", "Product", "Price_euros")
 
 hvl.show(15)
+//high value laptops from the laptop_price.csv - comment by me not chatgpt
 
 tsl=(
     df.groupBy("Product", "Company")
@@ -24,3 +25,4 @@ tsl=(
 ) 
 
 tsl.show(15)
+//top selling laptops from laptop_price.csv - comment by me not chatgpt
