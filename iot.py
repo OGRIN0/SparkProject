@@ -1,14 +1,11 @@
 from pyspark.sql import SparkSession
 from pyspark.sql.types import StructType, StructField, StringType, IntegerType, FloatType, TimestampType
 
-spark = SparkSession.builder.appName("iotdata").master("local[*]") \
-    .config("spark.driver.extraJavaOptions", "-Djava.security.manager=allow") \
-    .getOrCreate()
+spark= SparkSession.builder.appName("task2").getOrCreate()
 
-file_path = "data/iot_sensor_data.json"
+fp="data\iot_sensor_data.json"
 
-
-c_schema = StructType([
+fschema= StructType([
     StructField("sensor_id", StringType(), True),
     StructField("device_type", StringType(), True),
     StructField("temperature", FloatType(), True),
@@ -17,7 +14,6 @@ c_schema = StructType([
     StructField("timestamp", TimestampType(), True)
 ])
 
-df = spark.read.format("json").schema(c_schema).load(file_path)
+df= spark.read.format("json").schema(fschema).load(fp)
 
 df.printSchema()
-
